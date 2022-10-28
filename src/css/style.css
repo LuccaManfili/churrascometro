@@ -4,6 +4,8 @@ body {
     background-size: cover;
 
     }
+div{
+ background-image: url(../imagens/fundo.jpg);}
 
 .container {
     font-family: Arial, Helvetica, sans-serif;
